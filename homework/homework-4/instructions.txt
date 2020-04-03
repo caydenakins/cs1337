@@ -1,0 +1,9 @@
+Note: Option `D`/`d` can be used at any time to quit the program
+Note: Option `A`/`a` can be used at any time to create a new array, the options
+will be refreshed if you do so
+
+1) Run the program
+2) Enter your option (Note: `A`/`a` must be entered before doing anything else)
+3) Enter the size of the array
+4) Enter option `B`/`b`, `C`/`c`, or `E`/`e` to find the statistics, key memory
+value, or if a sequence exists
